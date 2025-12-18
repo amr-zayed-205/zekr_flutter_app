@@ -83,29 +83,38 @@ At the top-left corner, a button allows the user to return to the **Main Screen*
 
 ## 📸 Azkar Screenshots
 
-### Morning Azkar
-
-![Morning Azkar](screenshots/sabah.png)
-
-### Evening Azkar
-
-![Evening Azkar](screenshots/massa.png)
-
-### Post-Prayer Azkar
-
-![Post Prayer Azkar](screenshots/post_prayer.png)
+<div align="center">
+  <img src="screenshots/sabah.png" width="250" />
+  <img src="screenshots/massa.png" width="250" />
+  <img src="screenshots/post_prayer.png" width="250" />
+</div>
 
 ---
 
 ## 🧱 Project Structure
 
 ```
-lib/
-├── main.dart
-├── home.dart
-├── sabah.dart
-├── massa.dart
-└── postprayer.dart
+azkar_flutter_app/
+│
+├── lib/
+│   ├── main.dart
+│   ├── home.dart
+│   ├── sabah.dart
+│   ├── massa.dart
+│   └── postprayer.dart
+│
+├── assets/
+│
+├── screenshots/
+│   ├── home.png
+│   ├── sabah.png
+│   ├── massa.png
+│   └── post_prayer.png
+│
+├── pubspec.yaml
+├── README.md
+└── .gitignore
+
 ```
 
 - **main.dart**: Application entry point
