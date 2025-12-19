@@ -32,17 +32,30 @@ The application helps users maintain their daily remembrance through Morning Azk
 
 ## 📸 Screenshots
 
-Below are some screenshots showcasing the main screens of the application and the overall user experience:
+The following screenshots demonstrate the main features and user flow of the application.
 
-| Screen | Preview |
-| ------ | ------- |
+---
 
-| Home Screen | ![Home Screen](screenshots/home.png) |
-| Morning & Evening Azkar | ![Azkar Screen](screenshots/azkar.png) |
-| Digital Tasbih | ![Tasbih Screen](screenshots/tasbih.png) |
+### 🏠 Home Screen
+![Home Screen](screenshots/home.png)
 
-These screenshots highlight the app’s clean layout, unified color theme, smooth animations, and ease of navigation.
-| Main app | ![App](screenshots/all_app.png) |
+---
+
+### 🌿 Core Features
+<p align="center">
+  <img src="screenshots/azkar.png" width="30%" />
+  <img src="screenshots/tasbih.png" width="30%" />
+  <img src="screenshots/post_prayer.png" width="30%" />
+</p>
+
+---
+
+### 📱 Full Application Overview
+![Full App](screenshots/all_app.png)
+
+These screenshots highlight the app’s clean layout, unified color palette, smooth animations, and intuitive navigation.
+
+---
 
 ## 📂 Project Structure
 
