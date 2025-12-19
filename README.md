@@ -37,15 +37,16 @@ The following screenshots demonstrate the main features and user flow of the app
 ---
 
 ### 🏠 Home Screen
-![Home Screen](screenshots/home.png)
-
+ <p align="center">
+  <img src="screenshots/home.png" width="30%" />
+</p>
 ---
 
 ### 🌿 Core Features
 <p align="center">
   <img src="screenshots/azkar.png" width="30%" />
-  <img src="screenshots/tasbih.png" width="40%" />
-\</p>
+  <img src="screenshots/tasbih.png" width="35%" />
+</p>
 
 ---
 
