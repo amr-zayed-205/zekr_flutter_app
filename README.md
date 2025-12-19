@@ -26,8 +26,9 @@ The application helps users maintain their daily remembrance through Morning Azk
 
 ### 📸 splash screenshots
 
-![Splash Screen](screenshots/splash.jpg)
-
+<p align="center">
+  <img src="screenshots/splash.jpg" width="60%" />
+</p>
 ---
 
 ## 📸 Screenshots
