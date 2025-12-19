@@ -46,13 +46,15 @@ The following screenshots demonstrate the main features and user flow of the app
 ### 🌿 Core Features
 <p align="center">
   <img src="screenshots/azkar.png" width="30%" />
-  <img src="screenshots/tasbih.png" width="34%" />
+  <img src="screenshots/tasbih.png" width="36%" />
 </p>
 
 ---
 
 ### 📱 Full Application Overview
-![Full App](screenshots/all_app.png)
+<p align="center">
+  <img src="screenshots/all_app.png" hight= 70%" />
+</p>
 
 These screenshots highlight the app’s clean layout, unified color palette, smooth animations, and intuitive navigation.
 
