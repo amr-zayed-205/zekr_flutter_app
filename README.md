@@ -1,40 +1,58 @@
-# 🌿 Zekr App -- Islamic Remembrance Application
+# 🌿 Zekr App
 
 A clean, modern Islamic remembrance (Azkar) application built with
 **Flutter**, focusing on simplicity, calm UI, and smooth user
 experience.
 
+---
+
+## 📱 Overview
+
+Zekr App is a modern Islamic remembrance application built using Flutter, designed to provide a calm, focused, and spiritually uplifting experience for users.
+
+The application helps users maintain their daily remembrance through Morning Azkar, Evening Azkar, Post-Prayer Azkar, and a Digital Tasbih, with an emphasis on simplicity, clarity, and smooth interactio
+
+---
+
 ## ✨ Features
 
--   📿 Morning Azkar
--   🌙 Evening Azkar
--   🕌 Post-Prayer Azkar
--   🔢 Digital Tasbih with persistent counter
--   💾 Progress saved automatically
--   🎨 Unified color theme
--   ✨ Smooth animations
+- 📿 Morning Azkar
+- 🌙 Evening Azkar
+- 🕌 Post-Prayer Azkar
+- 🔢 Digital Tasbih with persistent counter
+- 💾 Progress saved automatically
+- 🎨 Unified color theme
+- ✨ Smooth animations
 
-## 📱 Screenshots
+### 📸 splash screenshots
 
-Place screenshots inside `screenshots/` folder:
+![Splash Screen](screenshots/splash.jpg)
 
--   splash.png
-<div align="center">
-  <img src="screenshots/azkar.png" width="250" />
-  <img src="screenshots/home.png" width="250" />
-  <img src="screenshots/tasbih.png" width="250" />
-</div>
--   all screens.png
+---
+
+## 📸 Screenshots
+
+Below are some screenshots showcasing the main screens of the application and the overall user experience:
+
+| Screen | Preview |
+| ------ | ------- |
+
+| Home Screen | ![Home Screen](screenshots/home.png) |
+| Morning & Evening Azkar | ![Azkar Screen](screenshots/azkar.png) |
+| Digital Tasbih | ![Tasbih Screen](screenshots/tasbih.png) |
+
+These screenshots highlight the app’s clean layout, unified color theme, smooth animations, and ease of navigation.
+| Main app | ![App](screenshots/all_app.png) |
 
 ## 📂 Project Structure
 
 ```
 lib/
 ├── core/
-│   └── app_colors.dart      
+│   └── app_colors.dart
 │
 ├── models/
-│   └── zekr_model.dart      
+│   └── zekr_model.dart
 │
 ├── services/
 │   └── azkar_service.dart     # JSON loading + local storage
@@ -56,26 +74,15 @@ lib/
 │       └── more_azkar_section.dart
 │
 ├── layouts/
-│   └── main_layout.dart      
+│   └── main_layout.dart
 │
-└── main.dart                 
+└── main.dart
 
 ```
 
-## 🧠 How It Works
-
--   Azkar loaded from JSON
--   Progress saved with SharedPreferences
--   Simple StatefulWidget logic
--   Bottom navigation layout
-
-## 🛠 Built With
-
--   Flutter
--   Material Design
--   SharedPreferences
+---
 
 ## 📌 Summary
 
-This project demonstrates clean Flutter navigation, reusable UI design, and practical state handling in a real-world mobile application.
-
+This project showcases clean Flutter navigation, reusable UI patterns,
+and practical state handling in a real-world mobile application.
