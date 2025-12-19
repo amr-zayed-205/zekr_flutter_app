@@ -14,6 +14,15 @@ The application helps users maintain their daily remembrance through Morning Azk
 
 ---
 
+## 🧑‍💻 Author
+
+**Amr Mohsen Mohamed**  
+**Mahmoud Tarek Mahmoud**  
+**Mahmoud Sabry Abdo**  
+**Mohamed Hany Mosaad**  
+
+---
+
 ## ✨ Features
 
 - 📿 Morning Azkar
