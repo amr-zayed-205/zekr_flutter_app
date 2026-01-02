@@ -100,7 +100,7 @@ lib/
 ---
 ## 🧑‍💻 Author
 
-**Amr — Flutter Developer**
+**Amr Zayed— Flutter Developer**
 ---
 
 ## 📌 Summary
