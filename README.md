@@ -98,11 +98,9 @@ lib/
 
 ```
 ---
-
 ## 🧑‍💻 Author
 
 **Amr — Flutter Developer**
-A Flutter-based Azkar app focused on simplicity, clarity, and daily spiritual consistency through clean design and smooth UX.
 ---
 
 ## 📌 Summary
