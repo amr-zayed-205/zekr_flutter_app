@@ -12,14 +12,6 @@ Zekr App is a modern Islamic remembrance application built using Flutter, design
 
 The application helps users maintain their daily remembrance through Morning Azkar, Evening Azkar, Post-Prayer Azkar, and a Digital Tasbih, with an emphasis on simplicity, clarity, and smooth interactio
 
----
-
-## 🧑‍💻 Author
-
-**Amr Mohsen Mohamed**  
-**Mahmoud Tarek Mahmoud**  
-**Mahmoud Sabry Abdo**  
-**Mohamed Hany Mosaad**  
 
 ---
 
@@ -105,7 +97,12 @@ lib/
 └── main.dart
 
 ```
+---
 
+## 🧑‍💻 Author
+
+**Amr — Flutter Developer**
+A Flutter-based Azkar app focused on simplicity, clarity, and daily spiritual consistency through clean design and smooth UX.
 ---
 
 ## 📌 Summary
